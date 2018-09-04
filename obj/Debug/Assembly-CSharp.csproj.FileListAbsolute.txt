@@ -1,0 +1,2 @@
+D:\kuliah\RVA\CobaAR\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\kuliah\RVA\CobaAR\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
